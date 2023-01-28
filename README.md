@@ -11,3 +11,5 @@
 ![stack implementation Linked list output](https://user-images.githubusercontent.com/112739680/215243563-b8a7469c-fd17-4905-b794-1de10c050ace.png)
 ## Hasing Using Linear Probing Method
 ![Hashing Linear Probing Method](https://user-images.githubusercontent.com/112739680/215247834-a0b43167-7435-463f-91a9-bed076128fed.png)
+## Circular Queue
+![Circular Queue](https://user-images.githubusercontent.com/112739680/215248167-bc8aa99f-0253-4877-a058-5c6c0df37e04.png)
