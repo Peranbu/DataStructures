@@ -7,3 +7,5 @@
 ![2023-01-28 (1)](https://user-images.githubusercontent.com/112739680/215242293-c352a25d-3154-4e87-b5c1-1a2c81f1ef50.png)
 ## Queue using Array
 ![2023-01-28 (2)](https://user-images.githubusercontent.com/112739680/215243182-dabac3f6-9e20-4dac-8221-5b728a6bab87.png)
+## Stack Implementation Using Linked List
+![stack implementation Linked list output](https://user-images.githubusercontent.com/112739680/215243563-b8a7469c-fd17-4905-b794-1de10c050ace.png)
