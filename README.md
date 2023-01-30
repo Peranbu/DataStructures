@@ -13,3 +13,6 @@
 ![Hashing Linear Probing Method](https://user-images.githubusercontent.com/112739680/215247834-a0b43167-7435-463f-91a9-bed076128fed.png)
 ## Circular Queue
 ![Circular Queue](https://user-images.githubusercontent.com/112739680/215248167-bc8aa99f-0253-4877-a058-5c6c0df37e04.png)
+## Enqueue And Dequeue
+![enqueue,dequeue output](https://user-images.githubusercontent.com/112739680/215377047-721b969a-9742-4357-b5a5-9711d1dbbc94.png)
+
